@@ -1,5 +1,5 @@
-# MTGRepo
-A Magic the Gathering repo.
+# pogo ui framework
+A css ui framework or something.
 
 * MVC.Net
 * Entity Framework
