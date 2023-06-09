@@ -1,10 +1,10 @@
 # pogo ui framework
 A css ui framework or something.
 
-* MVC.Net
-* Entity Framework
-* scryfall.com
-* Initial Template Designed by Wrappixel (niravjoshi87@gmail.com) - To be removed - Sorry but it's me not you.
+* css
+* jscript
+* Remix Icons
+* svg icons (inputs)
 * New Layout Updated
 
 ### To do
