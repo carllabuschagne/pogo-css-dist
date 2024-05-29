@@ -1,3 +1,23 @@
+# pogo ui framework
+A css ui framework or something.
+
+* css
+* jscript
+* Remix Icons
+* svg icons (inputs)
+* New Layout Updated
+
+### To do
+* Deck builder
+* Collection Tracker
+* Price History (TCGPlayer, Card Kingdom, MTG Stocks, etc)
+* Purchasing API for Local Game Stores (D20 Battlegrounds, Sad Robot, Top Deck SA, etc)
+
+### Notes
+* To Do
+
+> Notes
+> ...
 <!--
 Hey, thanks for using the awesome-readme-template template.  
 If you have any enhancements, then fork this project and create a pull request 
@@ -54,6 +74,9 @@ Maybe you can mention me or this repo in the acknowledgements too
 <!-- Table of Contents -->
 # :notebook_with_decorative_cover: Table of Contents
 
+- [pogo ui framework](#pogo-ui-framework)
+    - [To do](#to-do)
+    - [Notes](#notes)
 - [:notebook\_with\_decorative\_cover: Table of Contents](#notebook_with_decorative_cover-table-of-contents)
   - [:star2: About the Project](#star2-about-the-project)
     - [:camera: Screenshots](#camera-screenshots)
