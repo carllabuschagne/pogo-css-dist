@@ -1,23 +1,3 @@
-# MTGRepo
-A Magic the Gathering repo.
-
-* MVC.Net
-* Entity Framework
-* scryfall.com
-* Initial Template Designed by Wrappixel (niravjoshi87@gmail.com) - To be removed - Sorry but it's me not you.
-* New Layout Updated
-
-### To do
-* Deck builder
-* Collection Tracker
-* Price History (TCGPlayer, Card Kingdom, MTG Stocks, etc)
-* Purchasing API for Local Game Stores (D20 Battlegrounds, Sad Robot, Top Deck SA, etc)
-
-### Notes
-* To Do
-
-> Notes
-> ...
 <!--
 Hey, thanks for using the awesome-readme-template template.  
 If you have any enhancements, then fork this project and create a pull request 
@@ -74,26 +54,29 @@ Maybe you can mention me or this repo in the acknowledgements too
 <!-- Table of Contents -->
 # :notebook_with_decorative_cover: Table of Contents
 
-- [About the Project](#star2-about-the-project)
-  * [Screenshots](#camera-screenshots)
-  * [Tech Stack](#space_invader-tech-stack)
-  * [Features](#dart-features)
-  * [Color Reference](#art-color-reference)
-  * [Environment Variables](#key-environment-variables)
-- [Getting Started](#toolbox-getting-started)
-  * [Prerequisites](#bangbang-prerequisites)
-  * [Installation](#gear-installation)
-  * [Running Tests](#test_tube-running-tests)
-  * [Run Locally](#running-run-locally)
-  * [Deployment](#triangular_flag_on_post-deployment)
-- [Usage](#eyes-usage)
-- [Roadmap](#compass-roadmap)
-- [Contributing](#wave-contributing)
-  * [Code of Conduct](#scroll-code-of-conduct)
-- [FAQ](#grey_question-faq)
-- [License](#warning-license)
-- [Contact](#handshake-contact)
-- [Acknowledgements](#gem-acknowledgements)
+- [:notebook\_with\_decorative\_cover: Table of Contents](#notebook_with_decorative_cover-table-of-contents)
+  - [:star2: About the Project](#star2-about-the-project)
+    - [:camera: Screenshots](#camera-screenshots)
+    - [:space\_invader: Tech Stack](#space_invader-tech-stack)
+    - [:dart: Features](#dart-features)
+    - [:art: Color Reference](#art-color-reference)
+    - [:key: Environment Variables](#key-environment-variables)
+  - [:toolbox: Getting Started](#toolbox-getting-started)
+    - [:bangbang: Prerequisites](#bangbang-prerequisites)
+    - [:gear: Installation](#gear-installation)
+    - [:test\_tube: Running Tests](#test_tube-running-tests)
+    - [:running: Run Locally](#running-run-locally)
+    - [:triangular\_flag\_on\_post: Deployment](#triangular_flag_on_post-deployment)
+  - [:eyes: Usage](#eyes-usage)
+  - [:compass: Roadmap](#compass-roadmap)
+  - [:wave: Contributing](#wave-contributing)
+    - [:scroll: Code of Conduct](#scroll-code-of-conduct)
+  - [:grey\_question: FAQ](#grey_question-faq)
+  - [:warning: License](#warning-license)
+  - [:handshake: Contact](#handshake-contact)
+  - [:gem: Acknowledgements](#gem-acknowledgements)
+  - [](#)
+  - [](#-1)
 
   
 
